@@ -1,0 +1,29 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.envrc
+venv/
+env/
+.venv/
+
+# Data (ignore large raw data if you prefer)
+# data/raw_*.xlsx
+# uncomment above if you don't want raw excel in GitHub
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# outputs (if you prefer not to track generated outputs)
+# outputs/
