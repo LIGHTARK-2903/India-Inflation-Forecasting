@@ -4,7 +4,7 @@ utils.py
 Utility helpers for the India-Inflation-Forecasting project.
 Includes logging configuration, safe IO, argument parsing helpers, and formatting utilities.
 
-Author: LIGHTARK (Naman)
+Author: Naman Narendra Choudhary
 """
 
 import logging
