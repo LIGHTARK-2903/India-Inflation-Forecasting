@@ -5,7 +5,7 @@ Forecasting utilities: produce point forecasts, confidence intervals, YoY conver
 plots, and simple scenario analysis. Research-grade, designed to integrate with modeling.py
 and data_processing.py.
 
-Author: LIGHTARK (Naman)
+Author: Naman Narendra Choudhary
 """
 
 import logging
