@@ -1,3 +1,7 @@
+[![python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/status-complete-green.svg)]
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)]
+
 # India Inflation Forecasting System (CPI + WPI)
 
 A research-grade inflation forecasting pipeline modeled after the analytical standards of the **Reserve Bank of India (RBI)**, **ISI**, **IIT**, and global macro-research groups. The project includes:
