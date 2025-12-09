@@ -4,7 +4,7 @@ data_processing.py
 High-reliability data ingestion and cleaning module for CPI & WPI time-series.
 Designed for research-grade forecasting pipelines (RBI/ISI/IIT style).
 
-Author: LIGHTARK (Naman)
+Author: Naman Narendra Choudhary
 """
 
 import pandas as pd
