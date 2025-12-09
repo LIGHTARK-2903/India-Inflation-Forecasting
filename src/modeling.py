@@ -4,7 +4,7 @@ modeling.py
 Research-grade modeling utilities for SARIMA/ARIMA forecasting, diagnostics,
 and model selection. Designed to integrate with data_processing.py
 
-Author: LIGHTARK (Naman)
+Author: Naman Narendra Choudhary
 """
 
 import logging
