@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+pmdarima
+prophet
+openpyxl
+xlrd
+plotly
